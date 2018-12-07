@@ -1,5 +1,6 @@
 # CERAMICS
-Ceramic block with higher quality textures.
+
+[Minetest Mod] Ceramic block with higher quality textures. 
 
 **Screenshot of Mod:**
 
