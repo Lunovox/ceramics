@@ -16,7 +16,7 @@
   * [intllib](https://github.com/minetest-mods/intllib) → Facilitates the translation of several others mods into your native language, or other languages.
   
 **Licence:**
- * GNU AGP: https://pt.wikipedia.org/wiki/GNU_Affero_General_Public
+ * GNU GPL: https://pt.wikipedia.org/wiki/GNU_General_Public_License
 
 **Developers:**
  * [Luiz RPG](mailto:luizrpgluiz@disroot.org) (codes)
