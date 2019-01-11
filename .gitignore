@@ -1,3 +1,6 @@
+# controle do Subversion(SVN)
+.svn
+
 # Compiled Lua sources
 luac.out
 
